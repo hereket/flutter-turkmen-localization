@@ -63,7 +63,7 @@ MaterialApp(
 
 ## Additional information
 
-Most translations were kindly provided by [https://github.com/erknvl](@erknvl - Erkin Ovlyagulyyev).
+Most translations were kindly provided by [@erknvl - Erkin Ovlyagulyyev](https://github.com/erknvl).
 
 If you find some errors or have ideas about improving you can send a PR to the
 github repository.
