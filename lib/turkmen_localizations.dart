@@ -4,8 +4,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 
-import 'cupertino_localizations.dart';
-import 'material_localizations.dart';
+import 'src/cupertino_localizations.dart';
+import 'src/material_localizations.dart';
 
 class TurkmenLocalizations {
 
